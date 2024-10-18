@@ -28,10 +28,10 @@ Como utilizar:
 Execute o programa.
 
 No menu, digite a letra correspondente à operação desejada:
-[d] para Depositar
-[s] para Sacar
-[e] para Extrato
-[q] para Sair
+  * [d] para Depositar
+  * [s] para Sacar
+  * [e] para Extrato
+  * [q] para Sair
 
 Siga as instruções exibidas para cada operação.
 
